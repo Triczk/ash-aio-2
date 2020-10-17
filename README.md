@@ -7,7 +7,7 @@
 </h1>
 All in one tool containing hacks for Nintendo's Wii U game Splatoon found by the Actual Splatoon Hacking Team.
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/SmWNfVhtnMoFQfCfjTKtsRWL/ASHTeam/ash-aio-2'>
+
   <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/SmWNfVhtnMoFQfCfjTKtsRWL/ASHTeam/ash-aio-2.svg' />
 </a>
 
@@ -16,7 +16,7 @@ All in one tool containing hacks for Nintendo's Wii U game Splatoon found by the
 </h4>
 
 <p align="center">
-  <img src="http://i.imgur.com/qsxA7LT.png" alt="AshAIO v2.0.0.1"/>
+  <img src="http://i.imgur.com/qsxA7LT.png" alt="Nicros v2.0.0.1"/>
 </p>
 
 [![Github All Releases](https://img.shields.io/github/downloads/ASHTeam/ash-aio-2/total.svg)](https://github.com/ASHTeam/ash-aio-2/releases/latest) | [![GitHub release](https://img.shields.io/github/release/ASHTeam/ash-aio-2.svg)](https://github.com/ASHTeam/ash-aio-2/releases/latest) | [![View the Wiki](https://img.shields.io/badge/view%20the-wiki-orange.svg)](https://github.com/ASHTeam/ash-aio-2/wiki) | [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/ASHTeam/ash-aio-2/master/LICENSE) | [![Twitter](https://img.shields.io/twitter/url/https/github.com/ASHTeam/ash-aio-2.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
