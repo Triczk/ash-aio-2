@@ -1,9 +1,9 @@
 <h1 align="center">
-    This project is dead and is no longer being actively developed.
+    This project is "Complete" and is no longer being actively developed.
 </h1>
 
 <h1 align="center">
-   ASH-AIO
+   Nicros
 </h1>
 All in one tool containing hacks for Nintendo's Wii U game Splatoon found by the Actual Splatoon Hacking Team.
 
@@ -45,16 +45,7 @@ View the [Hack information guide](https://github.com/ASHTeam/ash-aio-2/wiki/info
 - Everyone in the ASH Team!
 
 ## License
-View the LICENSE file in this repo, or you can view it in AshAIO.
-
-## Contributing
-Pretty simple actually, just:
-
-- Fork this repository to your account
-- Make changes to your fork (preferably inside a new branch on your fork)
-- Once you've made changes, submit a pull request
-- Explain what you've added in your pull request
-- Someone from ASH Team will review and possibly merge your pull request into the main repository or your pull request gets denied.
+View the LICENSE file in this repo, or you can view it in Nicros.
 
 ## Compiling
 - Get Visual Studio 2010 or SharpDevelop
@@ -62,6 +53,6 @@ Pretty simple actually, just:
 - Load up Git and type in `git clone https://github.com/ASHTeam/ash-aio-2.git AshAIO`
 - Then load Visual Studio and open the solution
 - Go to the Build tab
-- Click Build NewAshAIO
+- Click Build Nicros
 - Locate your build in either one of the following folders:
   `./bin/Release`, `./bin/Debug`, `./obj/Release`, or `./obj/Debug`.
